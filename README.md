@@ -10,9 +10,9 @@
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at Indian Institute of Technology, Ropar.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; Learning about Cloud Tech, Cyber Security.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing App / Web Development & Penetration Testing as hobbies.
 
 
 
@@ -27,6 +27,12 @@
 <h3>🛠 To Learn</h3>
 
 - 🔧 &nbsp; AWS | Docker🐳
+
+
+<h3>🔢 Visitor Count</h3>
+
+![Visitor Count](https://profile-counter.glitch.me/prafgup/count.svg)
+
 
 <hr>
 
@@ -50,8 +56,6 @@
 
 <hr>
 
-
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <br>
@@ -59,23 +63,10 @@
 
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/prafulgupta07/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Praful%20Gupta-blue?style=flat-square&logo=linkedin"></a>
-
 <a href="https://www.instagram.com/praful.gupta07/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-praful.gupta07-blue?style=flat-square&logo=instagram"></a>
-
 <a href="mailto:prafulgupta6@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-prafulgupta6@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
 </p>
-
-
-
-
-
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=prafgup.prafgup)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
-
-
 
 
 <hr>
